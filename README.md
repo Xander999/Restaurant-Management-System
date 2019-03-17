@@ -1,0 +1,2 @@
+# Restaurant-Management-System
+The following restaurant management consists of two major functionalities. First it can track user location on latitude and longitude and show him/her the closest possible restaurants available. Secondly, using machine learning it predicts the rating of a particular hotel and the choices of user restaurants are completely manipulated by use of his/her previous orders and transactions.
